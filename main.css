@@ -1,0 +1,45 @@
+
+        #menu {
+            margin: 0;
+            display: block;
+            width: 100%
+        }
+
+        #menu ul {
+            list-style-type: none;
+            text-decoration: none;
+            display: block;
+        }
+
+        #menu ul a {
+
+            background: yellow;
+            width: 100px;
+            height: 50px;
+            float: left;
+            line-height: 30px;
+            border: 1px solid #ccc;
+            text-align: center;
+        }
+
+        #vanban {
+            width: auto;
+            height: auto;
+        }
+
+        #ha {
+            padding-top: 100x !important;
+        }
+    #vanban1 {
+        float: right;
+        
+
+    }
+.left {
+    display: flex;
+
+}
+.anh1 {
+   text-align: center;
+  
+}
